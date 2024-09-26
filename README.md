@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ismailsf01
-- 👀 I’m interested in learning C# and Python currently
+- 👀 I’m developing my abilities to code in C# and Python.
 - 🌱 I’m currently improving my C# coding
