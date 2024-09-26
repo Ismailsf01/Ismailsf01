@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Ismailsf01
 - 👀 I’m interested in learning C# and Python currently
 - 🌱 I’m currently improving my C# coding
-- ⚡ Fun fact: I've been coding since i was 13 :D
